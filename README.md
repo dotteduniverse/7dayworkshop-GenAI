@@ -39,3 +39,4 @@ This repository contains the complete **hands‑on workshop** for an AI Solution
 Your final deliverable: a **rebuilt GitHub repository** with well‑commented notebooks, an architecture design doc, and a roadmap for further learning.
 
 > 💡 **Memory aid**: All commands, code snippets, and decisions are documented inside the `/notebooks` folder. Use it as your personal reference.
+.
